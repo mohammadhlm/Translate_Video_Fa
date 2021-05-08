@@ -5,7 +5,6 @@ from googletrans import Translator
 import speech_recognition as sr
 import moviepy.editor as mp
 
-# Create Instance From Class Translator
 # Open Your Video
 clip = mp.VideoFileClip(r"Your_file.mp4")
 
